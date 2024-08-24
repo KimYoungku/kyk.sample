@@ -1,7 +1,7 @@
 # kyk.sample
 aaa
-bbb
+xxx
 ccc
-ddd
+yyy
 eee
-fff
+zzz
