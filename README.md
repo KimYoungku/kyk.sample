@@ -1,8 +1,8 @@
 # kyk.sample
 aaa
-xxxa
+3333
 ccc
-ooo
+44444444
 jjj
-ZZZ
+ZZZsfds
 fff
