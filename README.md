@@ -1,8 +1,8 @@
 # kyk.sample
 aaa
-3333
+EEEEEEEEEE
 ccc
-44444444
+YYYYYYYY
 jjj
-ZZZsfds
+ZZZsfdsAA
 fff
